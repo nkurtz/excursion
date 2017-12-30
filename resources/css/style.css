@@ -1,5 +1,8 @@
 body {
   background-color: black;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
 
 h1 {
@@ -32,8 +35,11 @@ h4 {
   text-align: center;
 }
 
-footer {
-  font-family: Verdana
-  text-align: center;
+p {
+  font-size: 21px;
   color: gray;
+}
+
+.footer {
+  text-align: right;
 }
